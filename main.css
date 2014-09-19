@@ -17,3 +17,28 @@ a:hover {
 a:active {
 	text-decoration: none;
 	color: #3
+}
+
+@media screen and (max-width: 959px) {
+	#title {
+		width: 100%;
+	}
+	.slide {
+		width: 100%;
+	}
+	img {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	#title {
+		width: 100%;
+	}
+	.slide {
+		width: 100%;
+	}
+	img {
+		width: 100%;
+	}
+}
