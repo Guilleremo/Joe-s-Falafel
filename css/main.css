@@ -1,0 +1,44 @@
+body {
+	background-color: #333300;
+}
+body,td,th {
+	color: #FFF;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: #3
+}
+
+@media screen and (max-width: 959px) {
+	#title {
+		width: 100%;
+	}
+	.slide {
+		width: 100%;
+	}
+	img {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	#title {
+		width: 100%;
+	}
+	.slide {
+		width: 100%;
+	}
+	img {
+		width: 100%;
+	}
+}
